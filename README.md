@@ -1,2 +1,2 @@
 # FirstEncounterGithub
-'Hello World'
+'Hello'
